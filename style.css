@@ -1,0 +1,29 @@
+body {
+    background-color: gray;
+    text-align:center;
+    align-content: center;
+}
+button {
+    margin-top:20px;
+    width:4rem;
+    height:2rem;
+}
+#main {
+    margin:auto;
+    display: block;
+    width:800px;
+    height:800px;
+    background-color: white;
+    box-shadow: inset 0px 0px 20px black;
+    
+    font-size:0;
+    border: blue 3px solid;
+}
+#box-style {
+    display:inline-block;
+    margin:0px;
+    
+}
+.black {
+    background-color:black;
+}
